@@ -16,3 +16,10 @@ docker build -t gpu_docker_tf_mat_multi .
 docker run -it  --privileged -v /var/lib/nvidia:/usr/local/nvidia/lib64 gpu_docker_tf_mat_multi
 nvidia驱动目录/var/lib/nvidia mount到/usr/local/nvidia/lib64 实现共享
 ```
+
+
+##OpenAi
+Infrastructure for Deep Learning
+
+https://openai.com/blog/infrastructure-for-deep-learning/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=social
+
