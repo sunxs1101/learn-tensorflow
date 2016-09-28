@@ -23,3 +23,18 @@ Infrastructure for Deep Learning
 
 https://openai.com/blog/infrastructure-for-deep-learning/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=social
 
+
+## TensorFlow tutorials
+
+tensorflow将计算表示为图，图中的节点被称作ops。
+
+
+
+
+
+
+
+
+
+
+
